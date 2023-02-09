@@ -104,3 +104,33 @@ ul{
 .quote-author{
     font-weight: 900;
 }
+
+.blue-box{
+    background-color:#3882F6;
+    margin: 32px 300px;
+    border-radius: 8px;
+    padding: 30px 100px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    display: flex;
+}
+
+.blue-box-text-top{
+    color: white;
+    font-weight: 600;
+}
+
+.blue-box-text-bottom{
+    color: lightgrey;
+    font-size: smaller;
+}
+
+.sign-up-two{
+    background-color: #3882F6;
+    border: white solid 1px;
+    color: white;
+    width: 128px;
+    height: 32px;
+    border-radius: 8px;
+}
